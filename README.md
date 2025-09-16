@@ -40,8 +40,8 @@ Tools:
 
 📫 Let's Connect!
 
-- 🔗 **LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/katlego-mthembu-0a0242306)
-- 🌐 **Personal Website: [Coming Soon!]()
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/katlego-mthembu-0a0242306)
+- 🌐 Personal Website: [Coming Soon!]()
 
 *I'm always open to connecting with fellow developers, discussing new ideas, and exploring collaboration opportunities!*
 
