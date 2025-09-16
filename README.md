@@ -34,7 +34,7 @@ Databases:
 Tools:
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![SQL Server Management Studio](https://img.shields.io/badge/SQLServerManagementStudio-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQL Server Management Studio](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
