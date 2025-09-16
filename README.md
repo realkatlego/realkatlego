@@ -40,7 +40,7 @@ Tools:
 
 📫 Let's Connect!
 
-- 🔗 **LinkedIn: [Coming Soon!]()
+- 🔗 **LinkedIn: [Coming Soon!](www.linkedin.com/in/katlego-mthembu-0a0242306)
 - 🌐 **Personal Website: [Coming Soon!]()
 
 *I'm always open to connecting with fellow developers, discussing new ideas, and exploring collaboration opportunities!*
