@@ -4,12 +4,12 @@ Aspiring Software Developer | Software Development Student
 
 I'm a passionate and driven 2nd-year student diving deep into the world of software development. I thrive on building clean, efficient, and impactful solutions through code. My current focus is on mastering the .NET ecosystem and modern web development to create robust full-stack applications.
 
-- 🔭 I’m currently working on: Sharpening my skills through academic projects and personal learning.
-- 🌱 I’m currently learning: The powerful .NET stack, including C#, .NET Framework, Entity Framework, ASP.NET, MVC, and API development with Swagger, alongside frontend technologies like React.js, JavaScript/jQuery, HTML, CSS, Bootstrap, and JSON.
-- 👯 I’m looking to collaborate on: Open-source or beginner-friendly C# and .NET projects, or any web development projects that can help me grow.
-- ⚡ Fun fact: When I'm not debugging code, you can find me on the soccer field ⚽! I believe teamwork on the pitch translates well to collaboration in development.
+- I’m currently working on: Sharpening my skills through academic projects and personal learning.
+- I’m currently learning: The powerful .NET stack, including C#, .NET Framework, Entity Framework, ASP.NET, MVC, and API development with Swagger, alongside frontend technologies like React.js, JavaScript/jQuery, HTML, CSS, Bootstrap, and JSON.
+- I’m looking to collaborate on: Open-source or beginner-friendly C# and .NET projects, or any web development projects that can help me grow.
+- Fun fact: When I'm not debugging code, you can find me on the soccer field ⚽! I believe teamwork on the pitch translates well to collaboration in development.
 
----
+
 
 🛠️ Tech Stack & Tools
 
@@ -35,17 +35,6 @@ Tools:
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
----
-
-📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/realkatlego">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realkatlego&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realkatlego&layout=compact&theme=radical&hide_border=true" />
-  </a>
-</p>
 
 ---
 
