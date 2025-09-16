@@ -2,7 +2,7 @@ Hi there, I'm Katlego! 👋
 
 Aspiring Software Developer | Software Development Student
 
-I'm a passionate and driven 2nd-year student diving deep into the world of software development. I thrive on building clean, efficient, and impactful solutions through code. My current focus is on mastering the .NET ecosystem and modern web development to create robust full-stack applications.
+I'm a passionate and driven 2nd-year student diving deep into the world of software development. I thrive on building clean, efficient, and impactful solutions through code. My current focus is on mastering C#, the .NET ecosystem and modern web development to create efficient full-stack applications.
 
 - I’m currently working on: Sharpening my skills through academic projects and personal learning.
 - I’m currently learning: The powerful .NET stack, including C#, .NET Framework, Entity Framework, ASP.NET, MVC, and API development with Swagger, alongside frontend technologies like React.js, JavaScript/jQuery, HTML, CSS, Bootstrap, and JSON.
